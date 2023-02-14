@@ -882,3 +882,13 @@
    Compiling radix_trie v0.2.1
    Compiling toml_edit v0.19.0
    Compiling ethers-signers v1.0.2 (https://github.com/gakonst/ethers-rs#1b08a94a)
+   Compiling ethers-middleware v1.0.2 (https://github.com/gakonst/ethers-rs#1b08a94a)
+   Compiling foundry-common v0.1.0 (/workspaces/flony1/f1/common)
+   Compiling ethers v1.0.2 (https://github.com/gakonst/ethers-rs#1b08a94a)
+   Compiling foundry-macros v0.1.0 (/workspaces/flony1/f1/macros)
+   Compiling forge-doc v0.1.0 (/workspaces/flony1/f1/doc)
+   Compiling foundry-cli-test-utils v0.1.0 (/workspaces/flony1/f1/cli/test-utils)
+   Compiling fd-lock v3.0.8
+   Compiling serial_test_derive v1.0.0
+   Compiling utf8parse v0.2.0
+   Compiling rustyline v10.1.0
