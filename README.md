@@ -50,4 +50,8 @@ signal: 9, SIGKILL: kill
 
 ```
 
-To fix this fulkel, bumped this instanced up. and will see if the build runs. Note the rust analyzer also takes time go through the whole project. You had better luck using gitypody, with theiz 
+1. To fix this fulkel, bumped this instanced up. and will see if the build runs. Note the rust analyzer also takes time go through the whole project. You had better luck using gitypody, with theiz
+2. Same above erro repeated , it may mean you cant do building on this, and need to look at the other gitypody 
+ 
+
+Abandon This , not working on this 
