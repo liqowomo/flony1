@@ -910,3 +910,6 @@ error: linking with `cc` failed: exit status: 1
 error: could not compile `foundry-utils` due to previous error
 warning: build failed, waiting for other jobs to finish...
 error: command `/home/codespace/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/bin/cargo test --no-run --message-format json-render-diagnostics` exited with code 101
+
+--- 
+Fucker took 12 mins to compile 
