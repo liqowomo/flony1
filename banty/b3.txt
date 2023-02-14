@@ -1,0 +1,4 @@
+   Compiling foundry-evm v0.2.0 (/workspaces/flony1/f1/evm)
+   Compiling foundry-cli v0.2.0 (/workspaces/flony1/f1/cli)
+   Compiling anvil v0.1.0 (/workspaces/flony1/f1/anvil)
+   Compiling chisel v0.1.1 (/workspaces/flony1/f1/chisel)
