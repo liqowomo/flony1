@@ -22,3 +22,7 @@ F | DaF
 
 Note waiting on the compilation tests which are being recorded [`here`](./banty/n1.txt) - Capturing the whole compilation output for later referencing
 
+```js
+flony1/f1 founly/f1*​ 12m51s 
+```
+- took about twice as long to compile 
