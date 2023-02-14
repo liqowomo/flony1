@@ -49,3 +49,5 @@ signal: 9, SIGKILL: kill
 
 
 ```
+
+To fix this fulkel, bumped this instanced up. and will see if the build runs. Note the rust analyzer also takes time go through the whole project. You had better luck using gitypody, with theiz 
